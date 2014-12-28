@@ -1,0 +1,26 @@
+.autocomplete-selected{background:#ddd;}
+.fit{max-width: 100px;}
+.selected{background:#f5f5f5 !important;}
+button,a,ul,select,textarea,div,input[type=button],input[type=submit],input[type=text],input[type=email],input[type=password]{border-radius: 0 !important;}
+input:focus,select:focus{box-shadow: none !important;}
+.navbar-default{background:#333333;border-color:#333333;border-bottom-color:#222222 !important;}
+.navbar-default .dropdown-toggle i{color: #777777 !important;}
+.navbar-default .dropdown-toggle:hover{background: #000000 !important;}
+.navbar-default .dropdown-toggle:hover i {color: #ffffff !important;}
+.sidebar a{color:#888888;}
+.sidebar a:hover{background-color:#444444 !important;}
+.sidebar a.active{background-color:#222222 !important;}
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus{background-color:#222222 !important;border-color:#f9f9f9; }
+.nav>li>a:hover, .nav>li>a:focus{background-color:#222222 !important;color:#ffffff;}
+.navbar-brand:hover{color:#ffffff;}
+.sidebar-search input:focus{border:none;}
+#top-link-block.affix-top {
+    position: absolute; /* allows it to "slide" up into view */
+    bottom: -82px;
+    left: 12px;
+}
+#top-link-block.affix {
+    position: fixed; /* keeps it on the bottom once in view */
+    bottom: 50%;
+    left: 210px;
+}

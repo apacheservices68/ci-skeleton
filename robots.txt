@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://24h.shophangdep.net/sitemap.xml
